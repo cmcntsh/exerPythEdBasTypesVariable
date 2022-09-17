@@ -2,11 +2,11 @@
 
 ## Summary of steps to complete
 
-- [ x] Fork this repository so you have your own copy to work on.
-- [x ] Clone the repository on your local machine. 
-- [ x] Complete the Jupyter Notebook included in this repository.
+- [x] Fork this repository so you have your own copy to work on.
+- [x] Clone the repository on your local machine. 
+- [x] Complete the Jupyter Notebook included in this repository.
 - [x] Push your completed notebook to your GitHub repository.
-- [ x] Submit a link to this GitHub repository in Canvas.
+- [x] Submit a link to this GitHub repository in Canvas.
 
 ## Fork & Clone this repository
 
